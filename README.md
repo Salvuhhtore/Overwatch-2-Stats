@@ -12,6 +12,8 @@ By providing detailed analyses of character win rates and role-specific statisti
 ## Data Operation/Abstraction Design
 The data for this analysis was sourced from [Kaggle](https://www.kaggle.com/datasets/mykhailokachan/overwatch-2-statistics), then refined to remove unnecessary statistics (e.g., data on moves unique to specific characters). The operations involved in data preparation included data cleaning and preprocessing to ensure the accuracy and relevance of the insights generated. Though the data says it is up to Season 4, a new character that was released in that season had not been included in the data, meaning the data is more likely to be from Season 3.
 
+**Note: Pick Rate is a percentage of *all* Overwatch 2 characters across *all* roles!**
+
 ## Future Work
 If given data on updated and more current seasons, I would like to continue to refine the analysis to accurately reflect the evolving gameplay dynamics of Overwatch 2, especially as the game approaches its 10th season.
 
