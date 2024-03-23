@@ -1,5 +1,5 @@
 # Overwatch-2-Statistics
-Hello! This is my midterm project for **DSBA-5122** - ***Visual Analytics***!
+Hello! This is my midterm project for UNC Charlotte's **DSBA-5122** - ***Visual Analytics*** course!
 
 [View my Tableau Public here!](https://public.tableau.com/shared/9FY6HSQYP?:display_count=n&:origin=viz_share_link)
 
